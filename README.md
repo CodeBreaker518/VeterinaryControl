@@ -1,8 +1,15 @@
-# React + Vite
+# Veterinary control
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+Project developed with JavaScript + React to practice concepts and hooks implementing all CRUD operations over an entity (patients) to handle a simple veterinary control.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack:
+
+- JavaScript
+- React
+- TailWindCSS
+
+#### Deploy
+
+[Netlify](https://veterinary-control.netlify.app/)
